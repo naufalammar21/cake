@@ -398,7 +398,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="row mx-auto">
+                        <div class="row mx-auto mb-2">
                             <button type="button" class="btn btn-success" style="width:250px;"><i class="fab fa-whatsapp"></i> Pesan</button>
                         </div>
                         <div class="card-footer">
@@ -432,8 +432,8 @@
                             </div>
                         </div>
                     </div>
-                    <div class="row mx-auto">
-                        <button type="button" class="btn btn-success" style="width:250px;"><i class="fab fa-whatsapp"></i> Pesan</button>
+                    <div class="row mx-auto mb-2">
+                        <button type="button" class="btn btn-success " style="width:250px;"><i class="fab fa-whatsapp"></i> Pesan</button>
                     </div>
                     <div class="card-footer">
                         <small class="text-muted"></small>
@@ -466,7 +466,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="row mx-auto">
+                    <div class="row mx-auto mb-2">
                         <button type="button" class="btn btn-success" style="width:250px;"><i class="fab fa-whatsapp"></i> Pesan</button>
                     </div>
                     <div class="card-footer">
@@ -500,7 +500,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="row mx-auto">
+                    <div class="row mx-auto mb-2">
                         <button type="button" class="btn btn-success" style="width:250px;"><i class="fab fa-whatsapp"></i> Pesan</button>
                     </div>
                     <div class="card-footer">
@@ -511,7 +511,7 @@
         </div>
         <div class="row row-cols-1 row-cols-md-4 g-4 mt-5">
             <div class="col">
-                <div class="card">
+                <div class="card h-100">
                     <img src="images/produk/5.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Muffin Coklat</h5>
@@ -528,7 +528,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="row mx-auto">
+                    <div class="row mx-auto mb-2">
                         <button type="button" class="btn btn-success" style="width:250px;"><i class="fab fa-whatsapp"></i> Pesan</button>
                     </div>
                     <div class="card-footer">
@@ -537,7 +537,7 @@
                 </div>
             </div>
             <div class="col">
-                <div class="card">
+                <div class="card h-100">
                     <img src="images/produk/6.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Croissant</h5>
@@ -554,7 +554,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="row mx-auto">
+                    <div class="row mx-auto mb-2">
                         <button type="button" class="btn btn-success" style="width:250px;"><i class="fab fa-whatsapp"></i> Pesan</button>
                     </div>
                     <div class="card-footer">
@@ -563,7 +563,7 @@
                 </div>
             </div>
             <div class="col">
-                <div class="card">
+                <div class="card h-100">
                     <img src="images/produk/7.jpg" class="card-img-top" alt="...">
                     <div class="card-body">
                         <h5 class="card-title">Brownies</h5>
@@ -580,7 +580,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="row mx-auto">
+                    <div class="row mx-auto mb-2">
                         <button type="button" class="btn btn-success" style="width:250px;"><i class="fab fa-whatsapp"></i> Pesan</button>
                     </div>
                     <div class="card-footer">
@@ -606,7 +606,7 @@
                             </div>
                         </div>
                     </div>
-                    <div class="row mx-auto">
+                    <div class="row mx-auto mb-2">
                         <button type="button" class="btn btn-success" style="width:250px;"><i class="fab fa-whatsapp"></i> Pesan</button>
                     </div>
                     <div class="card-footer">

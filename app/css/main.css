@@ -38,3 +38,9 @@ nav {
     text-transform: uppercase;
     z-index: 999;
 } */
+
+.card-img-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+}
