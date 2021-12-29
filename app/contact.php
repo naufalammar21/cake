@@ -67,32 +67,34 @@
     <div class="section mt-5"style="background: url('images/contact/peta.png');">
         <div class="col-10 mx-auto mt-5">
             <div class="fs-1 text-center text-white">Kirim Pesan</div>
+            <form action="helpers/mail.php" method="POST">
             <div class="row">
-                <div class="col-6">
-                    <div class="mb-3">
-                        <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="Nama">
+                    <div class="col-6">
+                        <div class="mb-3">
+                            <input type="text" class="form-control" name="name" id="exampleFormControlInput1" placeholder="Nama">
+                        </div>
+                        <div class="mb-3">
+                            <input type="email" class="form-control" name="email" id="exampleFormControlInput1" placeholder="Email">
+                        </div>
+                        <div class="mb-3">
+                            <input type="number" class="form-control" name="handphone" id="exampleFormControlInput1" placeholder="Nomor Telepon">
+                        </div>
+                        <div class="mb-3">
+                            <textarea class="form-control" name="address" id="exampleFormControlTextarea1" rows="3"placeholder="Alamat"></textarea>
+                        </div>
                     </div>
-                    <div class="mb-3">
-                        <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="Email">
+                    <div class="col-6">
+                        <div class="mb-3">
+                            <textarea class="form-control" name="messages" id="exampleFormControlTextarea1" rows="3"placeholder="Pesan"style="height:250px"></textarea>
+                        </div>
                     </div>
-                    <div class="mb-3">
-                        <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="Nomor Telepon">
-                    </div>
-                    <div class="mb-3">
-                        <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"placeholder="Alamat"></textarea>
-                    </div>
-                </div>
-                <div class="col-6">
-                    <div class="mb-3">
-                        <textarea class="form-control" id="exampleFormControlTextarea1" rows="3"placeholder="Pesan"style="height:250px"></textarea>
-                    </div>
-                </div>
             </div>
-            <div class="row">
-                <div class="col-1 mx-auto mb-1">
-                    <button type="button" class="btn btn-danger"style="margin-left:7px">Kirim</button>
-                </div>
-            </div>
+                    <div class="row">
+                        <div class="col-1 mx-auto mb-1">
+                            <button type="submit" name="submit" class="btn btn-danger"style="margin-left:7px">Kirim</button>
+                        </div>
+                    </div>
+                </form>
         </div>
     </div>
     
