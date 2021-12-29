@@ -380,22 +380,14 @@
                             <span class="fw-bold" style="color:#FF8B00;font-size: 12px;" >Produk Terlaris</span>
                             <p class="card-text"style="text-align:justify">Sponge cake adalah kue bolu yang mempunyai karakter texture dan remah seperti sponge atau busa. Sponge cake merupakan basic cake untuk membuat aneka macam kue berlapis cream.</p>
                         </div>
-                        <div class="card-body">   
-                            <div class="row">
-                                <div class="col-6">
-                                    <p class="fs-5 text-start text-danger">Rp 23.500</p>
-                                </div>
-                                <div class="col-6">
-                                    <p class="fs-6 text-end ">Harga/Slice</p>
-                                </div>
+                        <div class="d-flex flex-column">
+                            <div class="d-flex justify-content-around align-content-around">
+                                <p class="fs-5 text-start text-danger">Rp 23.500</p>
+                                <p class="fs-6 text-end ">Harga/Slice</p>
                             </div>
-                            <div class="row">
-                                <div class="col-6">
-                                    <p class="fs-5 text-start text-danger">Rp 70.000</p>
-                                </div>
-                                <div class="col-6">
-                                    <p class="fs-6 text-end">Harga/Loyang</p>
-                                </div>
+                            <div class="d-flex justify-content-around">
+                                <p class="fs-5 text-start text-danger">Rp 70.000</p>
+                                <p class="fs-6 text-end ">Harga/Loyang</p>
                             </div>
                         </div>
                         <div class="row mx-auto mb-2">
@@ -414,22 +406,14 @@
                         <span class="fw-bold" style="color:#FF8B00;font-size: 12px;" >Produk Terlaris</span>
                         <p class="card-text"style="text-align:justify">Rasanya yang enak, lembut dan halus membuat bolu gulung banyak disukai dari semua kalangan.  Bolu gulung yang bagus yaitu bisa dilihat dari karakter tebalnya, keempukannya, remahnya yang halus, mudah dan tidak pecah waktu digulung. Memiliki rasa manis yang tidak terlalu manis, ada rasa gurih dari keju dan terdapat sensasi garing karena adanya almond panggang di luarnya.</p>
                     </div>
-                    <div class="card-body">
-                        <div class="row">
-                            <div class="col-6">
-                                <p class="fs-5 text-start text-danger">Rp 22.000</p>
-                            </div>
-                            <div class="col-6">
-                                <p class="fs-6 text-end">Harga/Slice</p>
-                            </div>
+                    <div class="d-flex flex-column">
+                        <div class="d-flex justify-content-around align-content-around">
+                            <p class="fs-5 text-start text-danger">Rp 22.000</p>
+                            <p class="fs-6 text-end ">Harga/Slice</p>
                         </div>
-                        <div class="row">
-                            <div class="col-6">
-                                <p class="fs-5 text-start text-danger">Rp 65.000</p>
-                            </div>
-                            <div class="col-6">
-                                <p class="fs-6 text-end">Harga/Loyang</p>
-                            </div>
+                        <div class="d-flex justify-content-around">
+                            <p class="fs-5 text-start text-danger">Rp 65.000</p>
+                            <p class="fs-6 text-end ">Harga/Loyang</p>
                         </div>
                     </div>
                     <div class="row mx-auto mb-2">
@@ -448,22 +432,14 @@
                             <span class="fw-bold" style="color:#FF8B00;font-size: 12px;" >Produk Terlaris</span>
                             <p class="card-text"style="text-align:justify">Lapis Surabaya merupakan kue tradisional yang banyak disukai orang, rasanya yang enak, gurih dan lezat, perpaduan antara rasa vanilla dan coklat dengan rasa telur dan butter yang tinggi membuat kue lapis Surabaya mempunyai cita rasa tersendiri.</p>
                     </div>
-                    <div class="card-body">   
-                        <div class="row">
-                            <div class="col-6">
-                                <p class="fs-5 text-start text-danger">Rp 15.000</p>
-                            </div>
-                            <div class="col-6">
-                                <p class="fs-6 text-end ">Harga/Slice</p>
-                            </div>
+                    <div class="d-flex flex-column">
+                        <div class="d-flex justify-content-around">
+                            <p class="fs-5  text-danger">Rp 15.500</p>
+                            <p class="fs-6 ">Harga/Slice</p>
                         </div>
-                        <div class="row">
-                            <div class="col-6">
-                                <p class="fs-5 text-start text-danger">Rp 250.000</p>
-                            </div>
-                            <div class="col-6">
-                                <p class="fs-6 text-end">Harga/Loyang</p>
-                            </div>
+                        <div class="d-flex justify-content-around">
+                            <p class="fs-5  text-danger">Rp 250.000</p>
+                            <p class="fs-6 ">Harga/Loyang</p>
                         </div>
                     </div>
                     <div class="row mx-auto mb-2">
@@ -482,22 +458,14 @@
                         <span class="fw-bold" style="color:#FF8B00;font-size: 12px;" >Produk Terlaris</span>
                         <p class="card-text"style="text-align:justify">Chiffon cake adalah cake nya elastis, lembut, empuk dan halus. Bahan yang terbuat dari pandan dan menggunakan pewarna yang terbuat dari bahan-bahan alami. Memiliki rasa yang manis dan gurih karena adanya keju di atasnya.</p>
                     </div>
-                    <div class="card-body">   
-                        <div class="row">
-                            <div class="col-6">
-                                <p class="fs-5 text-start text-danger">Rp 24.500</p>
-                            </div>
-                            <div class="col-6">
-                                <p class="fs-6 text-end ">Harga/Slice</p>
-                            </div>
+                    <div class="d-flex flex-column">
+                        <div class="d-flex justify-content-around align-content-around">
+                            <p class="fs-5  text-danger">Rp 24.500</p>
+                            <p class="fs-6 ">Harga/Slice</p>
                         </div>
-                        <div class="row">
-                            <div class="col-6">
-                                <p class="fs-5 text-start text-danger">Rp 85.000</p>
-                            </div>
-                            <div class="col-6">
-                                <p class="fs-6 text-end">Harga/Loyang</p>
-                            </div>
+                        <div class="d-flex justify-content-around">
+                            <p class="fs-5  text-danger">Rp 85.000</p>
+                            <p class="fs-6 ">Harga/Loyang</p>
                         </div>
                     </div>
                     <div class="row mx-auto mb-2">
@@ -518,15 +486,9 @@
                         <span class="fw-bold" style="color:#FF8B00;font-size: 12px;" >Produk Terlaris</span>
                         <p class="card-text"style="text-align:justify">Adalah rotinya yang didalamnya terasa lembut tetapi memiliki tekstur renyah dan garing di bagian atasnya. Memiliki isi rasa coklat di dalamnya dan di atas nya ditaburi dengan potongan coklat.</p>
                     </div>
-                    <div class="card-body">   
-                        <div class="row">
-                            <div class="col-6">
-                                <p class="fs-5 text-start text-danger">Rp 10.500</p>
-                            </div>
-                            <div class="col-6">
-                                <p class="fs-6 text-end ">Harga/Pcs</p>
-                            </div>
-                        </div>
+                    <div class="d-flex justify-content-around">   
+                        <p class="fs-5 text-start text-danger">Rp 10.500</p>
+                        <p class="fs-6 text-end ">Harga/Pcs</p>
                     </div>
                     <div class="row mx-auto mb-2">
                         <button type="button" class="btn btn-success" style="width:250px;"><i class="fab fa-whatsapp"></i> Pesan</button>
@@ -544,15 +506,9 @@
                         <span class="fw-bold" style="color:#FF8B00;font-size: 12px;" >Produk Terlaris</span>
                         <p class="card-text"style="text-align:justify">Yaitu dikenal dengan bentuknya yang menyerupai bulan. Adonannya dibuat dari puff pastry sehingga ringan, kering, dan buttery dan memiliki rasa yang manis dan gurih. Rasa croissant biasanya manis maupun gurih. Crunchy bila baru saja dikeluarkan dari oven.</p>
                     </div>
-                    <div class="card-body">
-                        <div class="row">
-                            <div class="col-6">
-                                <p class="fs-5 text-start text-danger">Rp 10.000</p>
-                            </div>
-                            <div class="col-6">
-                                <p class="fs-6 text-end">Harga/Pcs</p>
-                            </div>
-                        </div>
+                    <div class="d-flex justify-content-around">   
+                        <p class="fs-5 text-start text-danger">Rp 10.000</p>
+                        <p class="fs-6 text-end ">Harga/Pcs</p>
                     </div>
                     <div class="row mx-auto mb-2">
                         <button type="button" class="btn btn-success" style="width:250px;"><i class="fab fa-whatsapp"></i> Pesan</button>
@@ -570,15 +526,9 @@
                             <span class="fw-bold" style="color:#FF8B00;font-size: 12px;" >Produk Terlaris</span>
                             <p class="card-text"style="text-align:justify">Brownies memiliki tekstur yang merupakan perpaduan antara cake dan cookies. Memiliki rasa kacang almond dan chocolate chips, keju.</p>
                     </div>
-                    <div class="card-body">   
-                        <div class="row">
-                            <div class="col-6">
-                                <p class="fs-5 text-start text-danger">Rp 15.000</p>
-                            </div>
-                            <div class="col-6">
-                                <p class="fs-6 text-end ">Harga/Loyang</p>
-                            </div>
-                        </div>
+                    <div class="d-flex justify-content-around">   
+                        <p class="fs-5 text-start text-danger">Rp 15.000</p>
+                        <p class="fs-6 text-end ">Harga/Loyang</p>
                     </div>
                     <div class="row mx-auto mb-2">
                         <button type="button" class="btn btn-success" style="width:250px;"><i class="fab fa-whatsapp"></i> Pesan</button>
@@ -596,15 +546,9 @@
                         <span class="fw-bold" style="color:#FF8B00;font-size: 12px;" >Produk Terlaris</span>
                         <p class="card-text"style="text-align:justify">Pai adalah makanan produk bakery yang dipanggang terbuat dari beberapa lapisan adonan tipis yang membentuk cangkang dan memiliki isian yang manis atau asin. Berbeda dengan produk bakery lainnya yang umumnya bersifat lembut, pai biasanya memiliki tekstur yang garing. Varian isian tersebut umumnya manis, seperti apel, stroberi, blackberry, cherry, krim, dan custard.</p>
                     </div>
-                    <div class="card-body">   
-                        <div class="row">
-                            <div class="col-6">
-                                <p class="fs-5 text-start text-danger">Rp 11.500</p>
-                            </div>
-                            <div class="col-6">
-                                <p class="fs-6 text-end ">Harga/Pcs</p>
-                            </div>
-                        </div>
+                    <div class="d-flex justify-content-around">   
+                        <p class="fs-5 text-start text-danger">Rp 11.500</p>
+                        <p class="fs-6 text-end ">Harga/Pcs</p>
                     </div>
                     <div class="row mx-auto mb-2">
                         <button type="button" class="btn btn-success" style="width:250px;"><i class="fab fa-whatsapp"></i> Pesan</button>
